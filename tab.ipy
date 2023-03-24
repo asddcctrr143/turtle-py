@@ -1,0 +1,8 @@
+import turtle *
+alex = turtle.Turtle()
+
+for i in range(100):
+alex.forward(100)
+alex.right(60)
+alex.forward(100)
+alex.right(36)
